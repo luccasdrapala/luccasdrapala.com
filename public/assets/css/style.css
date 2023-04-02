@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+   /* background: #29252C;  */
+}
+
+nav {
+  border-bottom: 1px solid rgb(88, 88, 88);  
+}
+
+.text-color {
+    color: #fff
+}
+
+nav ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+/* 
+#logo-header {
+    float: left;
+}
+
+
+
+nav ul li {
+    float: left; 
+ }
+ 
+nav ul li a:link {
+    display: block;
+    margin-left: 100px;
+    font-size: 1.2em;
+} */
